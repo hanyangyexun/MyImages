@@ -1,1 +1,1 @@
-This is my image repo!
+This is my image repo for my Blog!
